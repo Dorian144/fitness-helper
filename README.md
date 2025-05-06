@@ -61,8 +61,6 @@ A mobile fitness app developed as part of a university final-year project. It he
 ## Environment Setup Notes
 This project uses both a .env file (excluded from Git) and a env.ts wrapper for importing environment variables into TypeScript files.
 
-Never commit your .env file. Use .env.example for sharing safe defaults.
-
 ## Screenshots
 You can find screenshots of the main features (Dashboard, Workouts, Meals, Profile) in the assets/screenshots/ directory.
 
