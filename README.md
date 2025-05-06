@@ -28,7 +28,7 @@ A mobile fitness app developed as part of a university final-year project. It he
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/fitness-helper.git
+   git clone https://github.com/Dorian144/fitness-helper.git
    cd fitness-helper
    ```
 
