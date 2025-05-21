@@ -102,3 +102,8 @@ MIT
 ## Contributing
 This project is academic and not open for external contributions at this time.
 
+## Project Demonstration
+
+Watch the full demo of the Fitness Helper app here:  
+[📺 Fitness Helper: Final Year Project Demonstration](https://www.youtube.com/live/-0-vHY8tZzU)
+
